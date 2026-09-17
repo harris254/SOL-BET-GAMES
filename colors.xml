@@ -1,0 +1,11 @@
+<resources>
+    <color name="black">#071016</color>
+    <color name="panel">#0D1B24</color>
+    <color name="gold">#FFC107</color>
+    <color name="gold_dark">#C99500</color>
+    <color name="white">#FFFFFF</color>
+    <color name="muted">#9AAAB5</color>
+    <color name="green">#20C997</color>
+    <color name="red">#FF5C5C</color>
+    <color name="blue">#4DA3FF</color>
+</resources>
